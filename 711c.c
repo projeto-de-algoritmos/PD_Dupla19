@@ -1,5 +1,5 @@
 // Problema: https://codeforces.com/problemset/problem/711/C
-// Linguagem: C
+// Linguagem:  GNU C11
 
 #include <stdio.h>
 #include <stdlib.h>

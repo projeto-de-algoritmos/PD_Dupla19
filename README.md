@@ -16,6 +16,8 @@ Resolução de questões do site CodeForces utilizando Programação Dinâmica.
 ## Screenshots
 
 ### Problema 711C - Coloring Trees
+![Submissão 711C](images/711C.png)
+
 
 ### Problema 909C - Python Indentation
 ![Submissão 909C](images/909C.png)
